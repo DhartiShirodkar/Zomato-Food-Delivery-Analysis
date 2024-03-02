@@ -1,5 +1,5 @@
 # Zomato-Food-Delivery-Analysis
-#### Overview: 
+## Overview: 
 This project involves scraping data from Zomato to gather information about restaurants in Bangalore. The data includes attributes such as restaurant ID, name, cuisine, location, ratings, and more. After thorough data cleaning and exploration, insights were generated to assist in decision-making for potential restaurant owners and investors.
 
 #### Key Features: 
