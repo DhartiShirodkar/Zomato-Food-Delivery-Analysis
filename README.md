@@ -27,6 +27,6 @@ Ensure Python environment is set up with necessary libraries (e.g., BeautifulSou
 #### Future Enhancements:
 Integration of real-time data updates. Expansion to include additional cities or restaurant platforms for broader insights.
 
-Contact Information: dhartidp@gmail.com
+Contact Information: dhartidp1801@gmail.com
 
 Feedback: I welcome any feedback or suggestions for improvement.
